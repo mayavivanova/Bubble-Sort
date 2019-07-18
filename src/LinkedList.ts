@@ -36,8 +36,8 @@ class Node {
         length++;
         node = node.next;
       }
-  
-      return length;
+   
+      return  length;
     }
   
     at(index: number): Node {
