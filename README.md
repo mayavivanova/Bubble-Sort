@@ -1,6 +1,6 @@
-# Sample starting point for Typescript
+Bubble Sort implementation working for:
 
-1. Clone/Fork this repository
-2. ```npm install```
-3. ```npm run build```
-4. ```npm run tdd```
+1. Array of numbers
+2. String
+3. Linked List
+
